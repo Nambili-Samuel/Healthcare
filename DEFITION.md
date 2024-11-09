@@ -8,7 +8,7 @@ By connecting diverse services and professionals, the healthcare system strives 
 
 ## Key Aspects of Healthcare
 
-1. **Preventive Care**: Focuses on preventing diseases through vaccinations, regular screenings, and promoting healthy lifestyles to reduce the risk of illnesses.
+1. **Preventive Care**: Preventive care is a proactive approach within healthcare that focuses on reducing the likelihood of diseases and maintaining health before issues arise. It includes various practices and interventions designed to stop diseases from developing or worsening, often through early detection and health education.
 
 2. **Primary Care**: Often the first point of contact for individuals, including general health check-ups, treatment for common ailments, and referrals to specialists if needed.
 
