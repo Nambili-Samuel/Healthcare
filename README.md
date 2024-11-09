@@ -24,8 +24,8 @@ By connecting diverse services and professionals, the healthcare system strives 
 
 ## Key Players in Healthcare
 
-- **Healthcare Providers**: Doctors, nurses, therapists, pharmacists, and other trained professionals who deliver direct care.
-- **Healthcare Facilities**: Hospitals, clinics, nursing homes, and outpatient care centers that provide spaces for treatment.
+- **Healthcare Providers**: Doctors, nurses, therapists, pharmacists, and other trained professionals.
+- **Healthcare Facilities**: Hospitals, clinics, nursing homes, and outpatient centers that provide spaces for treatment.
 - **Insurance Companies**: Facilitate access to care by covering healthcare costs for policyholders.
 - **Public Health Organizations**: Government and non-governmental organizations work to promote population health, conduct research, and create health policies.
 
