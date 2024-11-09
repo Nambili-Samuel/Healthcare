@@ -31,9 +31,9 @@ By connecting diverse services and professionals, the healthcare system strives 
 
 ## Goals of Healthcare
 
-- **Improve Population Health**: By addressing and reducing health disparities, healthcare systems aim to improve the overall health of communities.
-- **Enhance Quality of Care**: Ensuring care is effective, safe, and centered around the patient's needs.
-- **Increase Accessibility and Affordability**: Making healthcare services available to as many people as possible, regardless of socioeconomic status.
+- **Improve Population Health**: Improving population health involves addressing and reducing health disparities by ensuring equal access to healthcare services. By promoting wellness, preventing diseases, and providing targeted interventions, healthcare systems strive to enhance the overall health of communities, creating a healthier and more equitable society.
+- **Enhance Quality of Care**: Enhancing the quality of care means ensuring that healthcare services are not only effective and safe but also tailored to meet the individual needs of patients. This involves improving clinical practices, enhancing communication, and prioritizing patient-centered care to achieve better health outcomes and overall patient satisfaction.
+- **Increase Accessibility and Affordability**: Increasing accessibility and affordability means making healthcare services available to everyone, regardless of their socioeconomic status. This involves reducing financial barriers, expanding insurance coverage, and improving healthcare infrastructure to ensure that all individuals can receive the care they need when they need it.
 
-In many countries, healthcare is a complex system involving both public and private sectors, regulated by government policies, insurance frameworks, and public health standards to ensure care is both effective and accessible.
+In many countries like the United States of America, healthcare is a complex system involving both public and private sectors, regulated by government policies such as the [Food and Drug Administration (FDA)](https://www.fda.gov/), HIPPA insurance frameworks like the [Health Insurance Portability and Accountability Act (HIPAA)](https://www.cdc.gov/phlp/php/resources/health-insurance-portability-and-accountability-act-of-1996-hipaa.html) (HIPAA) and public health standards to ensure care is both effective and accessible.
 
